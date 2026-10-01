@@ -1,0 +1,859 @@
+{
+  "url": "https://ashleybrookecs.com/work/target",
+  "width": 1440,
+  "height": 900,
+  "frames": [
+    {
+      "file": "frame_00001.png",
+      "kind": "intro",
+      "scrollY": 0,
+      "t": 0.631
+    },
+    {
+      "file": "frame_00002.png",
+      "kind": "scroll",
+      "scrollY": 55.20000076293945,
+      "t": 6.41
+    },
+    {
+      "file": "frame_00003.png",
+      "kind": "scroll",
+      "scrollY": 136,
+      "t": 7.171
+    },
+    {
+      "file": "frame_00004.png",
+      "kind": "scroll",
+      "scrollY": 216,
+      "t": 7.925
+    },
+    {
+      "file": "frame_00005.png",
+      "kind": "scroll",
+      "scrollY": 295.20001220703125,
+      "t": 8.614
+    },
+    {
+      "file": "frame_00006.png",
+      "kind": "scroll",
+      "scrollY": 374.3999938964844,
+      "t": 9.266
+    },
+    {
+      "file": "frame_00007.png",
+      "kind": "scroll",
+      "scrollY": 453.6000061035156,
+      "t": 9.832
+    },
+    {
+      "file": "frame_00008.png",
+      "kind": "scroll",
+      "scrollY": 535.2000122070312,
+      "t": 10.35
+    },
+    {
+      "file": "frame_00009.png",
+      "kind": "scroll",
+      "scrollY": 613.5999755859375,
+      "t": 10.813
+    },
+    {
+      "file": "frame_00010.png",
+      "kind": "scroll",
+      "scrollY": 692.7999877929688,
+      "t": 11.251
+    },
+    {
+      "file": "frame_00011.png",
+      "kind": "scroll",
+      "scrollY": 774.4000244140625,
+      "t": 11.717
+    },
+    {
+      "file": "frame_00012.png",
+      "kind": "scroll",
+      "scrollY": 852.7999877929688,
+      "t": 12.151
+    },
+    {
+      "file": "frame_00013.png",
+      "kind": "scroll",
+      "scrollY": 932,
+      "t": 12.515
+    },
+    {
+      "file": "frame_00014.png",
+      "kind": "scroll",
+      "scrollY": 1013.5999755859375,
+      "t": 12.918
+    },
+    {
+      "file": "frame_00015.png",
+      "kind": "scroll",
+      "scrollY": 1092,
+      "t": 13.308
+    },
+    {
+      "file": "frame_00016.png",
+      "kind": "scroll",
+      "scrollY": 1171.199951171875,
+      "t": 13.767
+    },
+    {
+      "file": "frame_00017.png",
+      "kind": "scroll",
+      "scrollY": 1252,
+      "t": 14.209
+    },
+    {
+      "file": "frame_00018.png",
+      "kind": "scroll",
+      "scrollY": 1333.5999755859375,
+      "t": 14.687
+    },
+    {
+      "file": "frame_00019.png",
+      "kind": "scroll",
+      "scrollY": 1414.4000244140625,
+      "t": 15.182
+    },
+    {
+      "file": "frame_00020.png",
+      "kind": "scroll",
+      "scrollY": 1492.800048828125,
+      "t": 15.781
+    },
+    {
+      "file": "frame_00021.png",
+      "kind": "scroll",
+      "scrollY": 1574.4000244140625,
+      "t": 16.488
+    },
+    {
+      "file": "frame_00022.png",
+      "kind": "scroll",
+      "scrollY": 1653.5999755859375,
+      "t": 17.001
+    },
+    {
+      "file": "frame_00023.png",
+      "kind": "scroll",
+      "scrollY": 1732.800048828125,
+      "t": 17.625
+    },
+    {
+      "file": "frame_00024.png",
+      "kind": "scroll",
+      "scrollY": 1816,
+      "t": 18.278
+    },
+    {
+      "file": "frame_00025.png",
+      "kind": "scroll",
+      "scrollY": 1896,
+      "t": 19.029
+    },
+    {
+      "file": "frame_00026.png",
+      "kind": "scroll",
+      "scrollY": 1976,
+      "t": 19.697
+    },
+    {
+      "file": "frame_00027.png",
+      "kind": "scroll",
+      "scrollY": 2056,
+      "t": 20.389
+    },
+    {
+      "file": "frame_00028.png",
+      "kind": "scroll",
+      "scrollY": 2135.199951171875,
+      "t": 21.05
+    },
+    {
+      "file": "frame_00029.png",
+      "kind": "scroll",
+      "scrollY": 2215.199951171875,
+      "t": 21.625
+    },
+    {
+      "file": "frame_00030.png",
+      "kind": "scroll",
+      "scrollY": 2295.199951171875,
+      "t": 22.211
+    },
+    {
+      "file": "frame_00031.png",
+      "kind": "scroll",
+      "scrollY": 2375.199951171875,
+      "t": 22.785
+    },
+    {
+      "file": "frame_00032.png",
+      "kind": "scroll",
+      "scrollY": 2454.39990234375,
+      "t": 23.346
+    },
+    {
+      "file": "frame_00033.png",
+      "kind": "scroll",
+      "scrollY": 2534.39990234375,
+      "t": 23.897
+    },
+    {
+      "file": "frame_00034.png",
+      "kind": "scroll",
+      "scrollY": 2612.800048828125,
+      "t": 24.429
+    },
+    {
+      "file": "frame_00035.png",
+      "kind": "scroll",
+      "scrollY": 2695.199951171875,
+      "t": 24.972
+    },
+    {
+      "file": "frame_00036.png",
+      "kind": "scroll",
+      "scrollY": 2772.800048828125,
+      "t": 25.54
+    },
+    {
+      "file": "frame_00037.png",
+      "kind": "scroll",
+      "scrollY": 2854.39990234375,
+      "t": 26.114
+    },
+    {
+      "file": "frame_00038.png",
+      "kind": "scroll",
+      "scrollY": 2933.60009765625,
+      "t": 26.658
+    },
+    {
+      "file": "frame_00039.png",
+      "kind": "scroll",
+      "scrollY": 3014.39990234375,
+      "t": 27.247
+    },
+    {
+      "file": "frame_00040.png",
+      "kind": "scroll",
+      "scrollY": 3093.60009765625,
+      "t": 27.856
+    },
+    {
+      "file": "frame_00041.png",
+      "kind": "scroll",
+      "scrollY": 3175.199951171875,
+      "t": 28.476
+    },
+    {
+      "file": "frame_00042.png",
+      "kind": "scroll",
+      "scrollY": 3253.60009765625,
+      "t": 29.08
+    },
+    {
+      "file": "frame_00043.png",
+      "kind": "scroll",
+      "scrollY": 3334.39990234375,
+      "t": 29.705
+    },
+    {
+      "file": "frame_00044.png",
+      "kind": "scroll",
+      "scrollY": 3414.39990234375,
+      "t": 30.288
+    },
+    {
+      "file": "frame_00045.png",
+      "kind": "scroll",
+      "scrollY": 3493.60009765625,
+      "t": 30.843
+    },
+    {
+      "file": "frame_00046.png",
+      "kind": "scroll",
+      "scrollY": 3574.39990234375,
+      "t": 31.35
+    },
+    {
+      "file": "frame_00047.png",
+      "kind": "scroll",
+      "scrollY": 3652.800048828125,
+      "t": 31.819
+    },
+    {
+      "file": "frame_00048.png",
+      "kind": "scroll",
+      "scrollY": 3733.60009765625,
+      "t": 32.292
+    },
+    {
+      "file": "frame_00049.png",
+      "kind": "scroll",
+      "scrollY": 3812.800048828125,
+      "t": 32.757
+    },
+    {
+      "file": "frame_00050.png",
+      "kind": "scroll",
+      "scrollY": 3893.60009765625,
+      "t": 33.224
+    },
+    {
+      "file": "frame_00051.png",
+      "kind": "scroll",
+      "scrollY": 3973.60009765625,
+      "t": 33.718
+    },
+    {
+      "file": "frame_00052.png",
+      "kind": "scroll",
+      "scrollY": 4055.199951171875,
+      "t": 34.148
+    },
+    {
+      "file": "frame_00053.png",
+      "kind": "scroll",
+      "scrollY": 4132,
+      "t": 34.513
+    },
+    {
+      "file": "frame_00054.png",
+      "kind": "scroll",
+      "scrollY": 4212,
+      "t": 34.874
+    },
+    {
+      "file": "frame_00055.png",
+      "kind": "scroll",
+      "scrollY": 4290.39990234375,
+      "t": 35.186
+    },
+    {
+      "file": "frame_00056.png",
+      "kind": "scroll",
+      "scrollY": 4370.39990234375,
+      "t": 35.509
+    },
+    {
+      "file": "frame_00057.png",
+      "kind": "scroll",
+      "scrollY": 4452,
+      "t": 35.853
+    },
+    {
+      "file": "frame_00058.png",
+      "kind": "scroll",
+      "scrollY": 4531.2001953125,
+      "t": 36.184
+    },
+    {
+      "file": "frame_00059.png",
+      "kind": "scroll",
+      "scrollY": 4611.2001953125,
+      "t": 36.511
+    },
+    {
+      "file": "frame_00060.png",
+      "kind": "scroll",
+      "scrollY": 4691.2001953125,
+      "t": 36.846
+    },
+    {
+      "file": "frame_00061.png",
+      "kind": "scroll",
+      "scrollY": 4771.2001953125,
+      "t": 37.194
+    },
+    {
+      "file": "frame_00062.png",
+      "kind": "scroll",
+      "scrollY": 4851.2001953125,
+      "t": 37.54
+    },
+    {
+      "file": "frame_00063.png",
+      "kind": "scroll",
+      "scrollY": 4930.39990234375,
+      "t": 37.881
+    },
+    {
+      "file": "frame_00064.png",
+      "kind": "scroll",
+      "scrollY": 5011.2001953125,
+      "t": 38.263
+    },
+    {
+      "file": "frame_00065.png",
+      "kind": "scroll",
+      "scrollY": 5092,
+      "t": 38.647
+    },
+    {
+      "file": "frame_00066.png",
+      "kind": "scroll",
+      "scrollY": 5172.7998046875,
+      "t": 39.084
+    },
+    {
+      "file": "frame_00067.png",
+      "kind": "scroll",
+      "scrollY": 5254.39990234375,
+      "t": 39.527
+    },
+    {
+      "file": "frame_00068.png",
+      "kind": "scroll",
+      "scrollY": 5332,
+      "t": 39.971
+    },
+    {
+      "file": "frame_00069.png",
+      "kind": "scroll",
+      "scrollY": 5413.60009765625,
+      "t": 40.461
+    },
+    {
+      "file": "frame_00070.png",
+      "kind": "scroll",
+      "scrollY": 5494.39990234375,
+      "t": 40.99
+    },
+    {
+      "file": "frame_00071.png",
+      "kind": "scroll",
+      "scrollY": 5574.39990234375,
+      "t": 41.383
+    },
+    {
+      "file": "frame_00072.png",
+      "kind": "scroll",
+      "scrollY": 5653.60009765625,
+      "t": 41.717
+    },
+    {
+      "file": "frame_00073.png",
+      "kind": "scroll",
+      "scrollY": 5731.2001953125,
+      "t": 42.027
+    },
+    {
+      "file": "frame_00074.png",
+      "kind": "scroll",
+      "scrollY": 5810.39990234375,
+      "t": 42.348
+    },
+    {
+      "file": "frame_00075.png",
+      "kind": "scroll",
+      "scrollY": 5892,
+      "t": 42.67
+    },
+    {
+      "file": "frame_00076.png",
+      "kind": "scroll",
+      "scrollY": 5971.2001953125,
+      "t": 43.002
+    },
+    {
+      "file": "frame_00077.png",
+      "kind": "scroll",
+      "scrollY": 6049.60009765625,
+      "t": 43.337
+    },
+    {
+      "file": "frame_00078.png",
+      "kind": "scroll",
+      "scrollY": 6130.39990234375,
+      "t": 43.648
+    },
+    {
+      "file": "frame_00079.png",
+      "kind": "scroll",
+      "scrollY": 6209.60009765625,
+      "t": 43.959
+    },
+    {
+      "file": "frame_00080.png",
+      "kind": "scroll",
+      "scrollY": 6289.60009765625,
+      "t": 44.292
+    },
+    {
+      "file": "frame_00081.png",
+      "kind": "scroll",
+      "scrollY": 6372.7998046875,
+      "t": 44.645
+    },
+    {
+      "file": "frame_00082.png",
+      "kind": "scroll",
+      "scrollY": 6450.39990234375,
+      "t": 44.995
+    },
+    {
+      "file": "frame_00083.png",
+      "kind": "scroll",
+      "scrollY": 6532.7998046875,
+      "t": 45.376
+    },
+    {
+      "file": "frame_00084.png",
+      "kind": "scroll",
+      "scrollY": 6613.60009765625,
+      "t": 45.779
+    },
+    {
+      "file": "frame_00085.png",
+      "kind": "scroll",
+      "scrollY": 6692,
+      "t": 46.1
+    },
+    {
+      "file": "frame_00086.png",
+      "kind": "scroll",
+      "scrollY": 6769.60009765625,
+      "t": 46.43
+    },
+    {
+      "file": "frame_00087.png",
+      "kind": "scroll",
+      "scrollY": 6849.60009765625,
+      "t": 46.771
+    },
+    {
+      "file": "frame_00088.png",
+      "kind": "scroll",
+      "scrollY": 6929.60009765625,
+      "t": 47.102
+    },
+    {
+      "file": "frame_00089.png",
+      "kind": "scroll",
+      "scrollY": 7009.60009765625,
+      "t": 47.449
+    },
+    {
+      "file": "frame_00090.png",
+      "kind": "scroll",
+      "scrollY": 7092,
+      "t": 47.885
+    },
+    {
+      "file": "frame_00091.png",
+      "kind": "scroll",
+      "scrollY": 7174.39990234375,
+      "t": 48.299
+    },
+    {
+      "file": "frame_00092.png",
+      "kind": "scroll",
+      "scrollY": 7252.7998046875,
+      "t": 48.681
+    },
+    {
+      "file": "frame_00093.png",
+      "kind": "scroll",
+      "scrollY": 7331.2001953125,
+      "t": 49.053
+    },
+    {
+      "file": "frame_00094.png",
+      "kind": "scroll",
+      "scrollY": 7412,
+      "t": 49.464
+    },
+    {
+      "file": "frame_00095.png",
+      "kind": "scroll",
+      "scrollY": 7491.2001953125,
+      "t": 49.887
+    },
+    {
+      "file": "frame_00096.png",
+      "kind": "scroll",
+      "scrollY": 7574.39990234375,
+      "t": 50.395
+    },
+    {
+      "file": "frame_00097.png",
+      "kind": "scroll",
+      "scrollY": 7655.2001953125,
+      "t": 50.859
+    },
+    {
+      "file": "frame_00098.png",
+      "kind": "scroll",
+      "scrollY": 7733.60009765625,
+      "t": 51.206
+    },
+    {
+      "file": "frame_00099.png",
+      "kind": "scroll",
+      "scrollY": 7811.2001953125,
+      "t": 51.492
+    },
+    {
+      "file": "frame_00100.png",
+      "kind": "scroll",
+      "scrollY": 7890.39990234375,
+      "t": 51.792
+    },
+    {
+      "file": "frame_00101.png",
+      "kind": "scroll",
+      "scrollY": 7968.7998046875,
+      "t": 52.091
+    },
+    {
+      "file": "frame_00102.png",
+      "kind": "scroll",
+      "scrollY": 8051.2001953125,
+      "t": 52.412
+    },
+    {
+      "file": "frame_00103.png",
+      "kind": "scroll",
+      "scrollY": 8129.60009765625,
+      "t": 52.739
+    },
+    {
+      "file": "frame_00104.png",
+      "kind": "scroll",
+      "scrollY": 8209.599609375,
+      "t": 53.066
+    },
+    {
+      "file": "frame_00105.png",
+      "kind": "scroll",
+      "scrollY": 8289.599609375,
+      "t": 53.389
+    },
+    {
+      "file": "frame_00106.png",
+      "kind": "scroll",
+      "scrollY": 8369.599609375,
+      "t": 53.702
+    },
+    {
+      "file": "frame_00107.png",
+      "kind": "scroll",
+      "scrollY": 8452,
+      "t": 54.026
+    },
+    {
+      "file": "frame_00108.png",
+      "kind": "scroll",
+      "scrollY": 8529.599609375,
+      "t": 54.364
+    },
+    {
+      "file": "frame_00109.png",
+      "kind": "scroll",
+      "scrollY": 8611.2001953125,
+      "t": 54.722
+    },
+    {
+      "file": "frame_00110.png",
+      "kind": "scroll",
+      "scrollY": 8692,
+      "t": 55.082
+    },
+    {
+      "file": "frame_00111.png",
+      "kind": "scroll",
+      "scrollY": 8771.2001953125,
+      "t": 55.465
+    },
+    {
+      "file": "frame_00112.png",
+      "kind": "scroll",
+      "scrollY": 8852,
+      "t": 55.868
+    },
+    {
+      "file": "frame_00113.png",
+      "kind": "scroll",
+      "scrollY": 8933.599609375,
+      "t": 56.297
+    },
+    {
+      "file": "frame_00114.png",
+      "kind": "scroll",
+      "scrollY": 9012.7998046875,
+      "t": 56.686
+    },
+    {
+      "file": "frame_00115.png",
+      "kind": "scroll",
+      "scrollY": 9092,
+      "t": 57.047
+    },
+    {
+      "file": "frame_00116.png",
+      "kind": "scroll",
+      "scrollY": 9170.400390625,
+      "t": 57.377
+    },
+    {
+      "file": "frame_00117.png",
+      "kind": "scroll",
+      "scrollY": 9252.7998046875,
+      "t": 57.718
+    },
+    {
+      "file": "frame_00118.png",
+      "kind": "scroll",
+      "scrollY": 9332.7998046875,
+      "t": 58.035
+    },
+    {
+      "file": "frame_00119.png",
+      "kind": "scroll",
+      "scrollY": 9411.2001953125,
+      "t": 58.359
+    },
+    {
+      "file": "frame_00120.png",
+      "kind": "scroll",
+      "scrollY": 9490.400390625,
+      "t": 58.67
+    },
+    {
+      "file": "frame_00121.png",
+      "kind": "scroll",
+      "scrollY": 9572,
+      "t": 58.99
+    },
+    {
+      "file": "frame_00122.png",
+      "kind": "scroll",
+      "scrollY": 9649.599609375,
+      "t": 59.3
+    },
+    {
+      "file": "frame_00123.png",
+      "kind": "scroll",
+      "scrollY": 9729.599609375,
+      "t": 59.624
+    },
+    {
+      "file": "frame_00124.png",
+      "kind": "scroll",
+      "scrollY": 9811.2001953125,
+      "t": 59.965
+    },
+    {
+      "file": "frame_00125.png",
+      "kind": "scroll",
+      "scrollY": 9892.7998046875,
+      "t": 60.322
+    },
+    {
+      "file": "frame_00126.png",
+      "kind": "scroll",
+      "scrollY": 9972.7998046875,
+      "t": 60.693
+    },
+    {
+      "file": "frame_00127.png",
+      "kind": "scroll",
+      "scrollY": 10052.7998046875,
+      "t": 61.024
+    },
+    {
+      "file": "frame_00128.png",
+      "kind": "scroll",
+      "scrollY": 10131.2001953125,
+      "t": 61.352
+    },
+    {
+      "file": "frame_00129.png",
+      "kind": "scroll",
+      "scrollY": 10212,
+      "t": 61.684
+    },
+    {
+      "file": "frame_00130.png",
+      "kind": "scroll",
+      "scrollY": 10291.2001953125,
+      "t": 61.997
+    },
+    {
+      "file": "frame_00131.png",
+      "kind": "scroll",
+      "scrollY": 10370.400390625,
+      "t": 62.286
+    },
+    {
+      "file": "frame_00132.png",
+      "kind": "scroll",
+      "scrollY": 10449.599609375,
+      "t": 62.591
+    },
+    {
+      "file": "frame_00133.png",
+      "kind": "scroll",
+      "scrollY": 10528.7998046875,
+      "t": 62.913
+    },
+    {
+      "file": "frame_00134.png",
+      "kind": "scroll",
+      "scrollY": 10611.2001953125,
+      "t": 63.247
+    },
+    {
+      "file": "frame_00135.png",
+      "kind": "scroll",
+      "scrollY": 10692,
+      "t": 63.562
+    },
+    {
+      "file": "frame_00136.png",
+      "kind": "scroll",
+      "scrollY": 10769.599609375,
+      "t": 63.882
+    },
+    {
+      "file": "frame_00137.png",
+      "kind": "scroll",
+      "scrollY": 10852,
+      "t": 64.229
+    },
+    {
+      "file": "frame_00138.png",
+      "kind": "scroll",
+      "scrollY": 10931.2001953125,
+      "t": 64.57
+    },
+    {
+      "file": "frame_00139.png",
+      "kind": "scroll",
+      "scrollY": 11010.400390625,
+      "t": 64.907
+    },
+    {
+      "file": "frame_00140.png",
+      "kind": "scroll",
+      "scrollY": 11086.400390625,
+      "t": 65.237
+    },
+    {
+      "file": "frame_00141.png",
+      "kind": "scroll",
+      "scrollY": 11109.599609375,
+      "t": 65.546
+    },
+    {
+      "file": "frame_00142.png",
+      "kind": "scroll",
+      "scrollY": 11112.7998046875,
+      "t": 65.873
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "ABCS | Home",
+  "lang": "en",
+  "canonical": null,
+  "description": "Ashley Brooke CS - A creative studio grounded in taking action, not just stopping at ideas. ABCS offers expert creative strategy, brand design, and experiential marketing services. Partner with us for innovative multichannel branding solutions.",
+  "og:title": "ABCS | Home",
+  "og:description": "Ashley Brooke CS - A creative studio grounded in taking action, not just stopping at ideas. ABCS offers expert creative strategy, brand design, and experiential marketing services. Partner with us for innovative multichannel branding solutions.",
+  "og:image": "https://cdn.prod.website-files.com/69aaebc8b2af8386b44dc292/69b23069dfc328d7a1ed5276_ABCS%20-%20GRAPH%20IMAGE%201.avif",
+  "twitter:title": "ABCS | Home",
+  "twitter:description": "Ashley Brooke CS - A creative studio grounded in taking action, not just stopping at ideas. ABCS offers expert creative strategy, brand design, and experiential marketing services. Partner with us for innovative multichannel branding solutions.",
+  "twitter:image": "https://cdn.prod.website-files.com/69aaebc8b2af8386b44dc292/69b23069dfc328d7a1ed5276_ABCS%20-%20GRAPH%20IMAGE%201.avif",
+  "og:type": "website",
+  "twitter:card": "summary_large_image",
+  "viewport": "width=device-width, initial-scale=1",
+  "generator": "Webflow"
+}

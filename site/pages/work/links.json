@@ -1,0 +1,667 @@
+{
+  "links": [
+    {
+      "text": "",
+      "href": "/",
+      "abs": "https://ashleybrookecs.com/",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Work,",
+      "href": "/work",
+      "abs": "https://ashleybrookecs.com/work",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Services,",
+      "href": "/services",
+      "abs": "https://ashleybrookecs.com/services",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "About,",
+      "href": "/about",
+      "abs": "https://ashleybrookecs.com/about",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Create with us",
+      "href": "/create-with-us",
+      "abs": "https://ashleybrookecs.com/create-with-us",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "ALL WORK",
+      "href": "#",
+      "abs": "https://ashleybrookecs.com/work#",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "BRAND",
+      "href": "#",
+      "abs": "https://ashleybrookecs.com/work#",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "",
+      "href": "/work/meta",
+      "abs": "https://ashleybrookecs.com/work/meta",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "",
+      "href": "/work/gilead",
+      "abs": "https://ashleybrookecs.com/work/gilead",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "CAMPAIGN",
+      "href": "#",
+      "abs": "https://ashleybrookecs.com/work#",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "",
+      "href": "/work/sofar-sounds",
+      "abs": "https://ashleybrookecs.com/work/sofar-sounds",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "",
+      "href": "/work/warner-bros",
+      "abs": "https://ashleybrookecs.com/work/warner-bros",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "",
+      "href": "/work/target",
+      "abs": "https://ashleybrookecs.com/work/target",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "",
+      "href": "/work/lionsgate",
+      "abs": "https://ashleybrookecs.com/work/lionsgate",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "EXPERIENTIAL",
+      "href": "#",
+      "abs": "https://ashleybrookecs.com/work#",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "",
+      "href": "/work/betx",
+      "abs": "https://ashleybrookecs.com/work/betx",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "",
+      "href": "/work/motorola",
+      "abs": "https://ashleybrookecs.com/work/motorola",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "",
+      "href": "/work/new-balance-x-complexcon",
+      "abs": "https://ashleybrookecs.com/work/new-balance-x-complexcon",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "",
+      "href": "/work/google",
+      "abs": "https://ashleybrookecs.com/work/google",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "",
+      "href": "/work/a3c-festival",
+      "abs": "https://ashleybrookecs.com/work/a3c-festival",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "FILM",
+      "href": "#",
+      "abs": "https://ashleybrookecs.com/work#",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "",
+      "href": "/work/magic-city-an-america-fantasy",
+      "abs": "https://ashleybrookecs.com/work/magic-city-an-america-fantasy",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "BETX",
+      "href": "/work/betx",
+      "abs": "https://ashleybrookecs.com/work/betx",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "BETX EXPERIENTIAL",
+      "href": "/work/betx",
+      "abs": "https://ashleybrookecs.com/work/betx",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Magic City: An America Fantasy",
+      "href": "/work/magic-city-an-america-fantasy",
+      "abs": "https://ashleybrookecs.com/work/magic-city-an-america-fantasy",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Magic City: An America Fantasy FILM",
+      "href": "/work/magic-city-an-america-fantasy",
+      "abs": "https://ashleybrookecs.com/work/magic-city-an-america-fantasy",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Warner Bros.",
+      "href": "/work/warner-bros",
+      "abs": "https://ashleybrookecs.com/work/warner-bros",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Warner Bros. CAMPAIGN • FILM",
+      "href": "/work/warner-bros",
+      "abs": "https://ashleybrookecs.com/work/warner-bros",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Target",
+      "href": "/work/target",
+      "abs": "https://ashleybrookecs.com/work/target",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Target CAMPAIGN • EXPERIENTIAL",
+      "href": "/work/target",
+      "abs": "https://ashleybrookecs.com/work/target",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Motorola",
+      "href": "/work/motorola",
+      "abs": "https://ashleybrookecs.com/work/motorola",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Motorola EXPERIENTIAL",
+      "href": "/work/motorola",
+      "abs": "https://ashleybrookecs.com/work/motorola",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Gilead",
+      "href": "/work/gilead",
+      "abs": "https://ashleybrookecs.com/work/gilead",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Gilead BRAND • EXPERIENTIAL",
+      "href": "/work/gilead",
+      "abs": "https://ashleybrookecs.com/work/gilead",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Lionsgate+",
+      "href": "/work/lionsgate",
+      "abs": "https://ashleybrookecs.com/work/lionsgate",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Lionsgate+ CAMPAIGN • EXPERIENTIAL",
+      "href": "/work/lionsgate",
+      "abs": "https://ashleybrookecs.com/work/lionsgate",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "New Balance X Complexcon",
+      "href": "/work/new-balance-x-complexcon",
+      "abs": "https://ashleybrookecs.com/work/new-balance-x-complexcon",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "New Balance X Complexcon EXPERIENTIAL",
+      "href": "/work/new-balance-x-complexcon",
+      "abs": "https://ashleybrookecs.com/work/new-balance-x-complexcon",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Google",
+      "href": "/work/google",
+      "abs": "https://ashleybrookecs.com/work/google",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Google EXPERIENTIAL",
+      "href": "/work/google",
+      "abs": "https://ashleybrookecs.com/work/google",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Sofar Sounds",
+      "href": "/work/sofar-sounds",
+      "abs": "https://ashleybrookecs.com/work/sofar-sounds",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Sofar Sounds CAMPAIGN • EXPERIENTIAL • FILM",
+      "href": "/work/sofar-sounds",
+      "abs": "https://ashleybrookecs.com/work/sofar-sounds",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Meta",
+      "href": "/work/meta",
+      "abs": "https://ashleybrookecs.com/work/meta",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Meta BRAND • CAMPAIGN",
+      "href": "/work/meta",
+      "abs": "https://ashleybrookecs.com/work/meta",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "A3C Festival",
+      "href": "/work/a3c-festival",
+      "abs": "https://ashleybrookecs.com/work/a3c-festival",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "A3C Festival EXPERIENTIAL • FILM",
+      "href": "/work/a3c-festival",
+      "abs": "https://ashleybrookecs.com/work/a3c-festival",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "BETX",
+      "href": "/work/betx",
+      "abs": "https://ashleybrookecs.com/work/betx",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "BETXExperiential••",
+      "href": "/work/betx",
+      "abs": "https://ashleybrookecs.com/work/betx",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Magic City: An America Fantasy",
+      "href": "/work/magic-city-an-america-fantasy",
+      "abs": "https://ashleybrookecs.com/work/magic-city-an-america-fantasy",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Magic City: An America FantasyFilm••",
+      "href": "/work/magic-city-an-america-fantasy",
+      "abs": "https://ashleybrookecs.com/work/magic-city-an-america-fantasy",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Warner Bros.",
+      "href": "/work/warner-bros",
+      "abs": "https://ashleybrookecs.com/work/warner-bros",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Warner Bros.Campaign•Film•",
+      "href": "/work/warner-bros",
+      "abs": "https://ashleybrookecs.com/work/warner-bros",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Target",
+      "href": "/work/target",
+      "abs": "https://ashleybrookecs.com/work/target",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "TargetCampaign•Experiential•",
+      "href": "/work/target",
+      "abs": "https://ashleybrookecs.com/work/target",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Motorola",
+      "href": "/work/motorola",
+      "abs": "https://ashleybrookecs.com/work/motorola",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "MotorolaExperiential••",
+      "href": "/work/motorola",
+      "abs": "https://ashleybrookecs.com/work/motorola",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Gilead",
+      "href": "/work/gilead",
+      "abs": "https://ashleybrookecs.com/work/gilead",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "GileadBrand•Experiential•",
+      "href": "/work/gilead",
+      "abs": "https://ashleybrookecs.com/work/gilead",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Lionsgate+",
+      "href": "/work/lionsgate",
+      "abs": "https://ashleybrookecs.com/work/lionsgate",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Lionsgate+Campaign•Experiential•",
+      "href": "/work/lionsgate",
+      "abs": "https://ashleybrookecs.com/work/lionsgate",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "New Balance X Complexcon",
+      "href": "/work/new-balance-x-complexcon",
+      "abs": "https://ashleybrookecs.com/work/new-balance-x-complexcon",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "New Balance X ComplexconExperiential••",
+      "href": "/work/new-balance-x-complexcon",
+      "abs": "https://ashleybrookecs.com/work/new-balance-x-complexcon",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Google",
+      "href": "/work/google",
+      "abs": "https://ashleybrookecs.com/work/google",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "GoogleExperiential••",
+      "href": "/work/google",
+      "abs": "https://ashleybrookecs.com/work/google",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Sofar Sounds",
+      "href": "/work/sofar-sounds",
+      "abs": "https://ashleybrookecs.com/work/sofar-sounds",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Sofar SoundsCampaign•Experiential•Film",
+      "href": "/work/sofar-sounds",
+      "abs": "https://ashleybrookecs.com/work/sofar-sounds",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Meta",
+      "href": "/work/meta",
+      "abs": "https://ashleybrookecs.com/work/meta",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "MetaBrand•Campaign•",
+      "href": "/work/meta",
+      "abs": "https://ashleybrookecs.com/work/meta",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "A3C Festival",
+      "href": "/work/a3c-festival",
+      "abs": "https://ashleybrookecs.com/work/a3c-festival",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "A3C FestivalExperiential•Film•",
+      "href": "/work/a3c-festival",
+      "abs": "https://ashleybrookecs.com/work/a3c-festival",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "let’s create together",
+      "href": "/create-with-us",
+      "abs": "https://ashleybrookecs.com/create-with-us",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "Work",
+      "href": "/work",
+      "abs": "https://ashleybrookecs.com/work",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "Services",
+      "href": "/services",
+      "abs": "https://ashleybrookecs.com/services",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "About",
+      "href": "/about",
+      "abs": "https://ashleybrookecs.com/about",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "studio@team-abcs.com",
+      "href": "mailto:Studio@team-abcs.com",
+      "abs": "mailto:Studio@team-abcs.com",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "work@team-abcs.com",
+      "href": "mailto:work@team-abcs.com",
+      "abs": "mailto:work@team-abcs.com",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "",
+      "href": "/",
+      "abs": "https://ashleybrookecs.com/",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "SITE BY SUERO",
+      "href": "https://ethansuero.com/",
+      "abs": "https://ethansuero.com/",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "LINKEDIN",
+      "href": "https://www.linkedin.com/company/ashley-brooke-creative-studio",
+      "abs": "https://www.linkedin.com/company/ashley-brooke-creative-studio",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "",
+      "href": "https://www.awwwards.com/sites/ashley-brooke",
+      "abs": "https://www.awwwards.com/sites/ashley-brooke",
+      "inNav": false,
+      "inFooter": false
+    }
+  ],
+  "nav": [
+    {
+      "tag": "nav",
+      "id": null,
+      "cls": [
+        "nav",
+        "u-pointer-off",
+        "u-theme-light"
+      ],
+      "items": [
+        {
+          "text": "",
+          "href": "/",
+          "abs": "https://ashleybrookecs.com/"
+        },
+        {
+          "text": "Work,",
+          "href": "/work",
+          "abs": "https://ashleybrookecs.com/work"
+        },
+        {
+          "text": "Services,",
+          "href": "/services",
+          "abs": "https://ashleybrookecs.com/services"
+        },
+        {
+          "text": "About,",
+          "href": "/about",
+          "abs": "https://ashleybrookecs.com/about"
+        },
+        {
+          "text": "Create with us",
+          "href": "/create-with-us",
+          "abs": "https://ashleybrookecs.com/create-with-us"
+        }
+      ]
+    },
+    {
+      "tag": "footer",
+      "id": null,
+      "cls": [
+        "footer_layout",
+        "u-flex-vertical-nowrap",
+        "u-justify-content-between"
+      ],
+      "items": [
+        {
+          "text": "let’s create together",
+          "href": "/create-with-us",
+          "abs": "https://ashleybrookecs.com/create-with-us"
+        },
+        {
+          "text": "Work",
+          "href": "/work",
+          "abs": "https://ashleybrookecs.com/work"
+        },
+        {
+          "text": "Services",
+          "href": "/services",
+          "abs": "https://ashleybrookecs.com/services"
+        },
+        {
+          "text": "About",
+          "href": "/about",
+          "abs": "https://ashleybrookecs.com/about"
+        },
+        {
+          "text": "studio@team-abcs.com",
+          "href": "mailto:Studio@team-abcs.com",
+          "abs": "mailto:Studio@team-abcs.com"
+        },
+        {
+          "text": "work@team-abcs.com",
+          "href": "mailto:work@team-abcs.com",
+          "abs": "mailto:work@team-abcs.com"
+        },
+        {
+          "text": "",
+          "href": "/",
+          "abs": "https://ashleybrookecs.com/"
+        },
+        {
+          "text": "SITE BY SUERO",
+          "href": "https://ethansuero.com/",
+          "abs": "https://ethansuero.com/"
+        },
+        {
+          "text": "LINKEDIN",
+          "href": "https://www.linkedin.com/company/ashley-brooke-creative-studio",
+          "abs": "https://www.linkedin.com/company/ashley-brooke-creative-studio"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "awwwards",
+      "tag": "div",
+      "top": 361,
+      "height": 179,
+      "heading": ""
+    }
+  ]
+}

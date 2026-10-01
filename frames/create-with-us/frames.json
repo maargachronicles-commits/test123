@@ -1,0 +1,61 @@
+{
+  "url": "https://ashleybrookecs.com/create-with-us",
+  "width": 1440,
+  "height": 900,
+  "frames": [
+    {
+      "file": "frame_00001.png",
+      "kind": "intro",
+      "scrollY": 0,
+      "t": 0.115
+    },
+    {
+      "file": "frame_00002.png",
+      "kind": "intro",
+      "scrollY": 0,
+      "t": 0.388
+    },
+    {
+      "file": "frame_00003.png",
+      "kind": "intro",
+      "scrollY": 0,
+      "t": 0.662
+    },
+    {
+      "file": "frame_00004.png",
+      "kind": "intro",
+      "scrollY": 0,
+      "t": 0.936
+    },
+    {
+      "file": "frame_00005.png",
+      "kind": "intro",
+      "scrollY": 0,
+      "t": 1.224
+    },
+    {
+      "file": "frame_00006.png",
+      "kind": "intro",
+      "scrollY": 0,
+      "t": 1.51
+    },
+    {
+      "file": "frame_00007.png",
+      "kind": "intro",
+      "scrollY": 0,
+      "t": 1.79
+    },
+    {
+      "file": "frame_00008.png",
+      "kind": "intro",
+      "scrollY": 0,
+      "t": 2.068
+    },
+    {
+      "file": "frame_00009.png",
+      "kind": "intro",
+      "scrollY": 0,
+      "t": 2.35
+    }
+  ]
+}

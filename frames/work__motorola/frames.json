@@ -1,0 +1,97 @@
+{
+  "url": "https://ashleybrookecs.com/work/motorola",
+  "width": 1440,
+  "height": 900,
+  "frames": [
+    {
+      "file": "frame_00001.png",
+      "kind": "intro",
+      "scrollY": 0,
+      "t": 0.159
+    },
+    {
+      "file": "frame_00002.png",
+      "kind": "intro",
+      "scrollY": 0,
+      "t": 0.828
+    },
+    {
+      "file": "frame_00003.png",
+      "kind": "intro",
+      "scrollY": 0,
+      "t": 1.717
+    },
+    {
+      "file": "frame_00004.png",
+      "kind": "intro",
+      "scrollY": 0,
+      "t": 2.642
+    },
+    {
+      "file": "frame_00005.png",
+      "kind": "intro",
+      "scrollY": 0,
+      "t": 3.531
+    },
+    {
+      "file": "frame_00006.png",
+      "kind": "scroll",
+      "scrollY": 56,
+      "t": 5.981
+    },
+    {
+      "file": "frame_00007.png",
+      "kind": "scroll",
+      "scrollY": 136,
+      "t": 6.937
+    },
+    {
+      "file": "frame_00008.png",
+      "kind": "scroll",
+      "scrollY": 1012,
+      "t": 7.671
+    },
+    {
+      "file": "frame_00009.png",
+      "kind": "scroll",
+      "scrollY": 2791.199951171875,
+      "t": 8.442
+    },
+    {
+      "file": "frame_00010.png",
+      "kind": "scroll",
+      "scrollY": 7132.7998046875,
+      "t": 8.773
+    },
+    {
+      "file": "frame_00011.png",
+      "kind": "scroll",
+      "scrollY": 10140,
+      "t": 9.105
+    },
+    {
+      "file": "frame_00012.png",
+      "kind": "scroll",
+      "scrollY": 11056.7998046875,
+      "t": 9.525
+    },
+    {
+      "file": "frame_00013.png",
+      "kind": "scroll",
+      "scrollY": 11175.2001953125,
+      "t": 9.882
+    },
+    {
+      "file": "frame_00014.png",
+      "kind": "scroll",
+      "scrollY": 11184,
+      "t": 10.215
+    },
+    {
+      "file": "frame_00015.png",
+      "kind": "scroll",
+      "scrollY": 11184.7998046875,
+      "t": 10.551
+    }
+  ]
+}

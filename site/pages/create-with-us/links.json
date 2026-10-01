@@ -1,0 +1,170 @@
+{
+  "links": [
+    {
+      "text": "",
+      "href": "/",
+      "abs": "https://ashleybrookecs.com/",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Work,",
+      "href": "/work",
+      "abs": "https://ashleybrookecs.com/work",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Services,",
+      "href": "/services",
+      "abs": "https://ashleybrookecs.com/services",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "About,",
+      "href": "/about",
+      "abs": "https://ashleybrookecs.com/about",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Create with us",
+      "href": "/create-with-us",
+      "abs": "https://ashleybrookecs.com/create-with-us",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Book a 20 min discovery call",
+      "href": "https://hello.dubsado.com/public/appointment-scheduler/69d6aae682e8463c418d85fc/schedule",
+      "abs": "https://hello.dubsado.com/public/appointment-scheduler/69d6aae682e8463c418d85fc/schedule",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "ACT I",
+      "href": "#act-i",
+      "abs": "https://ashleybrookecs.com/create-with-us#act-i",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "ACT II",
+      "href": "#act-ii",
+      "abs": "https://ashleybrookecs.com/create-with-us#act-ii",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "ACT III",
+      "href": "#act-iii",
+      "abs": "https://ashleybrookecs.com/create-with-us#act-iii",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "FINALE",
+      "href": "#act-iv",
+      "abs": "https://ashleybrookecs.com/create-with-us#act-iv",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Button Text",
+      "href": "#",
+      "abs": "https://ashleybrookecs.com/create-with-us#",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Button Text",
+      "href": "#",
+      "abs": "https://ashleybrookecs.com/create-with-us#",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Button Text",
+      "href": "#",
+      "abs": "https://ashleybrookecs.com/create-with-us#",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Button Text",
+      "href": "#",
+      "abs": "https://ashleybrookecs.com/create-with-us#",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Button Text",
+      "href": "#",
+      "abs": "https://ashleybrookecs.com/create-with-us#",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Button Text",
+      "href": "#",
+      "abs": "https://ashleybrookecs.com/create-with-us#",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "",
+      "href": "https://www.awwwards.com/sites/ashley-brooke",
+      "abs": "https://www.awwwards.com/sites/ashley-brooke",
+      "inNav": false,
+      "inFooter": false
+    }
+  ],
+  "nav": [
+    {
+      "tag": "nav",
+      "id": null,
+      "cls": [
+        "nav",
+        "u-pointer-off",
+        "u-theme-light"
+      ],
+      "items": [
+        {
+          "text": "",
+          "href": "/",
+          "abs": "https://ashleybrookecs.com/"
+        },
+        {
+          "text": "Work,",
+          "href": "/work",
+          "abs": "https://ashleybrookecs.com/work"
+        },
+        {
+          "text": "Services,",
+          "href": "/services",
+          "abs": "https://ashleybrookecs.com/services"
+        },
+        {
+          "text": "About,",
+          "href": "/about",
+          "abs": "https://ashleybrookecs.com/about"
+        },
+        {
+          "text": "Create with us",
+          "href": "/create-with-us",
+          "abs": "https://ashleybrookecs.com/create-with-us"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "awwwards",
+      "tag": "div",
+      "top": 361,
+      "height": 179,
+      "heading": ""
+    }
+  ]
+}

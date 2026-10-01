@@ -1,0 +1,219 @@
+{
+  "links": [
+    {
+      "text": "",
+      "href": "/",
+      "abs": "https://ashleybrookecs.com/",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Work,",
+      "href": "/work",
+      "abs": "https://ashleybrookecs.com/work",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Services,",
+      "href": "/services",
+      "abs": "https://ashleybrookecs.com/services",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "About,",
+      "href": "/about",
+      "abs": "https://ashleybrookecs.com/about",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Create with us",
+      "href": "/create-with-us",
+      "abs": "https://ashleybrookecs.com/create-with-us",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Build Your Own",
+      "href": "/create-with-us",
+      "abs": "https://ashleybrookecs.com/create-with-us",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "let’s create together",
+      "href": "/create-with-us",
+      "abs": "https://ashleybrookecs.com/create-with-us",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "Work",
+      "href": "/work",
+      "abs": "https://ashleybrookecs.com/work",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "Services",
+      "href": "/services",
+      "abs": "https://ashleybrookecs.com/services",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "About",
+      "href": "/about",
+      "abs": "https://ashleybrookecs.com/about",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "studio@team-abcs.com",
+      "href": "mailto:Studio@team-abcs.com",
+      "abs": "mailto:Studio@team-abcs.com",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "work@team-abcs.com",
+      "href": "mailto:work@team-abcs.com",
+      "abs": "mailto:work@team-abcs.com",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "",
+      "href": "/",
+      "abs": "https://ashleybrookecs.com/",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "SITE BY SUERO",
+      "href": "https://ethansuero.com/",
+      "abs": "https://ethansuero.com/",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "LINKEDIN",
+      "href": "https://www.linkedin.com/company/ashley-brooke-creative-studio",
+      "abs": "https://www.linkedin.com/company/ashley-brooke-creative-studio",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "",
+      "href": "https://www.awwwards.com/sites/ashley-brooke",
+      "abs": "https://www.awwwards.com/sites/ashley-brooke",
+      "inNav": false,
+      "inFooter": false
+    }
+  ],
+  "nav": [
+    {
+      "tag": "nav",
+      "id": null,
+      "cls": [
+        "nav",
+        "u-pointer-off",
+        "u-theme-light"
+      ],
+      "items": [
+        {
+          "text": "",
+          "href": "/",
+          "abs": "https://ashleybrookecs.com/"
+        },
+        {
+          "text": "Work,",
+          "href": "/work",
+          "abs": "https://ashleybrookecs.com/work"
+        },
+        {
+          "text": "Services,",
+          "href": "/services",
+          "abs": "https://ashleybrookecs.com/services"
+        },
+        {
+          "text": "About,",
+          "href": "/about",
+          "abs": "https://ashleybrookecs.com/about"
+        },
+        {
+          "text": "Create with us",
+          "href": "/create-with-us",
+          "abs": "https://ashleybrookecs.com/create-with-us"
+        }
+      ]
+    },
+    {
+      "tag": "footer",
+      "id": null,
+      "cls": [
+        "footer_layout",
+        "u-flex-vertical-nowrap",
+        "u-justify-content-between"
+      ],
+      "items": [
+        {
+          "text": "let’s create together",
+          "href": "/create-with-us",
+          "abs": "https://ashleybrookecs.com/create-with-us"
+        },
+        {
+          "text": "Work",
+          "href": "/work",
+          "abs": "https://ashleybrookecs.com/work"
+        },
+        {
+          "text": "Services",
+          "href": "/services",
+          "abs": "https://ashleybrookecs.com/services"
+        },
+        {
+          "text": "About",
+          "href": "/about",
+          "abs": "https://ashleybrookecs.com/about"
+        },
+        {
+          "text": "studio@team-abcs.com",
+          "href": "mailto:Studio@team-abcs.com",
+          "abs": "mailto:Studio@team-abcs.com"
+        },
+        {
+          "text": "work@team-abcs.com",
+          "href": "mailto:work@team-abcs.com",
+          "abs": "mailto:work@team-abcs.com"
+        },
+        {
+          "text": "",
+          "href": "/",
+          "abs": "https://ashleybrookecs.com/"
+        },
+        {
+          "text": "SITE BY SUERO",
+          "href": "https://ethansuero.com/",
+          "abs": "https://ethansuero.com/"
+        },
+        {
+          "text": "LINKEDIN",
+          "href": "https://www.linkedin.com/company/ashley-brooke-creative-studio",
+          "abs": "https://www.linkedin.com/company/ashley-brooke-creative-studio"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "awwwards",
+      "tag": "div",
+      "top": 361,
+      "height": 179,
+      "heading": ""
+    }
+  ]
+}

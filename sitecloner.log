@@ -1,0 +1,79 @@
+[01:37:37] browser: chrome
+[01:37:38] PAGE 1: https://ashleybrookecs.com/
+[01:37:38]   [desktop 1440px] loading
+[01:38:00]   [desktop] stitched screenshot
+[01:38:18]   animations: gsap=True scrollTriggers=81 smoothScrollKilled=False revealed=29
+[01:38:49]   [tablet 834px] loading
+[01:39:10]   [tablet] stitched screenshot
+[01:39:25]   animations: gsap=True scrollTriggers=81 smoothScrollKilled=False revealed=28
+[01:39:40]   [mobile 390px] loading
+[01:39:53]   [mobile] stitched screenshot
+[01:40:03]   animations: gsap=True scrollTriggers=38 smoothScrollKilled=False revealed=30
+[01:40:06] PAGE 2: https://ashleybrookecs.com/work
+[01:40:06]   [desktop 1440px] loading
+[01:40:18]   [desktop] stitched screenshot
+[01:40:27]   animations: gsap=True scrollTriggers=3 smoothScrollKilled=False revealed=18
+[01:40:43]   [tablet 834px] loading
+[01:40:55]   [tablet] stitched screenshot
+[01:41:03]   animations: gsap=True scrollTriggers=3 smoothScrollKilled=False revealed=18
+[01:41:10]   [mobile 390px] loading
+[01:41:21]   [mobile] stitched screenshot
+[01:41:32]   animations: gsap=True scrollTriggers=2 smoothScrollKilled=False revealed=7
+[01:41:40] PAGE 3: https://ashleybrookecs.com/services
+[01:41:41]   [desktop 1440px] loading
+[01:41:53]   [desktop] stitched screenshot
+[01:42:04]   animations: gsap=True scrollTriggers=27 smoothScrollKilled=False revealed=6
+[01:42:08]   [tablet 834px] loading
+[01:42:20]   [tablet] stitched screenshot
+[01:42:31]   animations: gsap=True scrollTriggers=27 smoothScrollKilled=False revealed=6
+[01:42:34]   [mobile 390px] loading
+[01:42:45]   [mobile] stitched screenshot
+[01:42:53]   animations: gsap=True scrollTriggers=3 smoothScrollKilled=False revealed=3
+[01:42:55] PAGE 4: https://ashleybrookecs.com/about
+[01:42:55]   [desktop 1440px] loading
+[01:43:06]   [desktop] stitched screenshot
+[01:43:14]   animations: gsap=True scrollTriggers=26 smoothScrollKilled=False revealed=3
+[01:43:25]   [tablet 834px] loading
+[01:43:38]   [tablet] stitched screenshot
+[01:43:45]   animations: gsap=True scrollTriggers=26 smoothScrollKilled=False revealed=3
+[01:43:51]   [mobile 390px] loading
+[01:44:02]   [mobile] stitched screenshot
+[01:44:09]   animations: gsap=True scrollTriggers=8 smoothScrollKilled=False revealed=4
+[01:44:10] PAGE 5: https://ashleybrookecs.com/create-with-us
+[01:44:10]   [desktop 1440px] loading
+[01:44:18]   [desktop] stitched screenshot
+[01:44:19]   animations: gsap=True scrollTriggers=8 smoothScrollKilled=False revealed=46
+[01:44:21]   [tablet 834px] loading
+[01:44:28]   [tablet] stitched screenshot
+[01:44:29]   animations: gsap=True scrollTriggers=8 smoothScrollKilled=False revealed=46
+[01:44:31]   [mobile 390px] loading
+[01:44:38]   [mobile] stitched screenshot
+[01:44:40]   animations: gsap=True scrollTriggers=3 smoothScrollKilled=False revealed=47
+[01:44:41] PAGE 6: https://ashleybrookecs.com/work/meta
+[01:44:41]   [desktop 1440px] loading
+[01:45:14]   [desktop] stitched screenshot
+[01:45:31]   animations: gsap=True scrollTriggers=39 smoothScrollKilled=False revealed=9
+[01:45:58]   [tablet 834px] loading
+[01:46:16]   [tablet] stitched screenshot
+[01:46:29]   animations: gsap=True scrollTriggers=39 smoothScrollKilled=False revealed=9
+[01:46:37]   [mobile 390px] loading
+[01:46:51]   [mobile] stitched screenshot
+[01:47:05]   animations: gsap=True scrollTriggers=25 smoothScrollKilled=False revealed=10
+[01:47:08] PAGE 7: https://ashleybrookecs.com/work/gilead
+[01:47:08]   [desktop 1440px] loading
+[01:47:24]   [desktop] stitched screenshot
+[01:47:41]   animations: gsap=True scrollTriggers=39 smoothScrollKilled=False revealed=9
+[01:48:30]   [tablet 834px] loading
+[01:48:47]   [tablet] stitched screenshot
+[01:49:01]   animations: gsap=True scrollTriggers=39 smoothScrollKilled=False revealed=9
+[01:49:07]   [mobile 390px] loading
+[01:49:21]   [mobile] stitched screenshot
+[01:49:34]   animations: gsap=True scrollTriggers=25 smoothScrollKilled=False revealed=10
+[01:49:37] PAGE 8: https://ashleybrookecs.com/work/sofar-sounds
+[01:49:37]   [desktop 1440px] loading
+[01:50:04]   [desktop] stitched screenshot
+[01:50:21]   animations: gsap=True scrollTriggers=39 smoothScrollKilled=False revealed=9
+[01:51:29]   [tablet 834px] loading
+[01:51:54]   [tablet] stitched screenshot
+[01:52:08]   animations: gsap=True scrollTriggers=39 smoothScrollKilled=False revealed=9
+[01:52:15]   [mobile 390px] loading
